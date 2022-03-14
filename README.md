@@ -17,6 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminlimaa&layout=compact&langs_count=7&theme=radical"/>
 </div><br><br>
   
+  
 <hr>
   <h2 align="center">🔥 Linguagens & Frameworks 🔥 </h2>
 <div style="display: inline_block" align="center" ><br><br>
@@ -29,7 +30,7 @@
   <img align="center" alt="Yas-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">&#10022;
   <img align="center" alt="Yas-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
 
-  
+ 
 </div> <br><br>
   
 
@@ -42,10 +43,11 @@
   <a href = "mailto:yasminserejo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/YzaBVmnU9h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
-
+ ![Snake animation](https://github.com/yasminlimaa/yasminlimaa/blob/output/github-contribution-grid-snake.svg)
 </div>
   
- <hr>
-   ![Snake animation](https://github.com/yasminlimaa/yasminlimaa/blob/output/github-contribution-grid-snake.svg)
+ 
+ 
+  
  
  
