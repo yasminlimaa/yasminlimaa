@@ -2,7 +2,7 @@
 
 <div align="center">
   <img align="center" alt="Yas-pic" height="200" style="border-radius:50px;"    
-       src="https://media.discordapp.net/attachments/952957764009881660/952957940669751316/yasmin-pic.png">
+       src="https://media.discordapp.net/attachments/889656111890833429/952983667800694804/yas-pic.gif">
       <h3 align="center"> Desenvolvedora Junior 💻</h3>
  </div>
   
