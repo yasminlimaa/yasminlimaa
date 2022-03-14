@@ -15,7 +15,7 @@
   <a href="https://github.com/yasminlimaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminlimaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminlimaa&layout=compact&langs_count=7&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yasminlimaa&layout=compact&langs_count=7&theme=radical" alt="yasminlimaa" />
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=yasminlimaa&theme=radical&date_format=j%20M%5B%20Y%5D" alt="yasminlimaa" />
 </div><br><br>
   
   
