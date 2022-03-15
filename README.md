@@ -5,7 +5,7 @@
        src="https://media.discordapp.net/attachments/889656111890833429/952983667800694804/yas-pic.gif"><br><br>
    <p align="center">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=480&lines=Desenvolvedora+Junior+%F0%9F%92%BB">
+        <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=480&lines=Desenvolvedora+Junior+%F0%9F%92%BB;Bem+-+Vindo(a)+%F0%9F%91%8B;Amo+escrever+c%C3%B3digos+e+aprender+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB">
       </a>
     </p>
  </div>
