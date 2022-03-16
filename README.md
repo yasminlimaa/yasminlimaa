@@ -3,6 +3,11 @@
 <div align="center">
   <img align="center" alt="Yas-pic" height="200" style="border-radius:50px;"    
        src="https://media.discordapp.net/attachments/889656111890833429/952983667800694804/yas-pic.gif"><br><br>
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=Bem+-+Vindo(a)+%F0%9F%91%8B+;Programadora+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB">
+    </a>
+  </p>
  </div>
   
   <hr>
